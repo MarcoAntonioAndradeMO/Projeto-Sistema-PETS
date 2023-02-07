@@ -1,0 +1,65 @@
+header{
+    background-color: #E4E3E3;
+    padding: 30px 0;
+}
+
+body{
+    background-color: #2F7E28;
+}
+
+.titulo{
+    color: black;
+    padding-top: 30px;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    font-size: 40px;
+}
+nav{
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: FFFFFF;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+.propaganda{
+    border-radius: 15%;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+
+footer{
+    text-align: center;
+    background: #E4E3E3;
+    padding: 40px 0;
+}
+
+.copyright{
+    color: black;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
